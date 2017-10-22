@@ -1,0 +1,76 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+div {
+	margin: 0;
+	padding: 0;
+}
+
+#navegacao {
+	background: #F0F0F0;
+	border-bottom: 1px solid blue;
+	height: 30px;
+	width: 100%;
+	padding-left: 8px;
+}
+
+#seletor {
+	font-family: 'Alegreya';
+	color: #045FB4;
+}
+
+#idioma {
+	color: #045FB4;
+	background: #FFF;
+	float: left;
+}
+
+#infos {
+	float: right;
+	padding-right: 20px;
+	padding-bottom: 5px;
+	color: #045FB4;
+	margin-top: 0px;
+	height: 38px;
+}
+
+#location {
+	height: 30px;
+}
+
+#fone {
+	height: 26px;
+}
+
+#menu {
+	background: #F0F0F0;
+	border-bottom: 1px solid #FFFFFF;
+	height: 60px;
+	width: 100%;
+	border-bottom: 1px solid blue;
+	margin: 0px;
+	padding: 0px;
+}
+
+#area {
+	width: 95%;
+	margin: 0 auto;
+}
+
+#logo {
+	font-size: 30px;
+	color: #045FB4;
+	line-height: 55px;
+	padding-left: 8px;
+}
+
+#manutencao {
+	font-size: 25px;
+}
+
+#lista {
+	float: right;
+	padding-right: 50px;
+}
